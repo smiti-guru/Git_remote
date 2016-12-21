@@ -17,7 +17,7 @@ update vms_tables.freestyle_mcd_sec set cust_id='10303492'  , UPDT_TMST = curren
 update vms_tables.freestyle_mcd_sec set cust_id='10303492'  , UPDT_TMST = current_timestamp(0),  UPDT_USR_ID = Current_user where emal_addr like '%raghrao@coca-cola.com%' and stor_no like '%773%';
 update vms_tables.freestyle_mcd_sec set cust_id='10303492'   , UPDT_TMST = current_timestamp(0),  UPDT_USR_ID = Current_user where emal_addr like '%kagandla@coca-cola.com%' and stor_no like '%773%';
 update vms_tables.freestyle_mcd_sec set cust_id='10303492'  , UPDT_TMST = current_timestamp(0),  UPDT_USR_ID = Current_user where emal_addr like '%vicesposito@coca-cola.com%' and stor_no like '%773%';
-
+cXCaxcv
 update vms_tables.freestyle_mcd_xref set cust_id='10303492'  , UPDT_TMST = current_timestamp(0),  UPDT_USR_ID = Current_user where stor_no ='773';
 --------------------------------------------------------------
 
